@@ -2,3 +2,4 @@ Link para download do Git: https://git-scm.com/downloads
 O git bash é um términal extendido para otimizar o uso do Git.
 Link do markdown: https://www.markdownguide.org/basic-syntax/
 Linguagem de formatação usado pelo github
+Uma nova atualização do Git para ter acesso a IDE VisualCode é só clicar no .(ponto do teclado)
